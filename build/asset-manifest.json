@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RickAndMorty_MultiSelect_TypeScript/static/css/main.e6c13ad2.css",
+    "main.js": "/RickAndMorty_MultiSelect_TypeScript/static/js/main.caf4f357.js",
+    "static/js/453.ed3810f9.chunk.js": "/RickAndMorty_MultiSelect_TypeScript/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/RickAndMorty_MultiSelect_TypeScript/index.html",
+    "main.e6c13ad2.css.map": "/RickAndMorty_MultiSelect_TypeScript/static/css/main.e6c13ad2.css.map",
+    "main.caf4f357.js.map": "/RickAndMorty_MultiSelect_TypeScript/static/js/main.caf4f357.js.map",
+    "453.ed3810f9.chunk.js.map": "/RickAndMorty_MultiSelect_TypeScript/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.caf4f357.js"
+  ]
+}
